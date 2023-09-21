@@ -1,115 +1,48 @@
-Write the objective of the assignment yourself
+NOT IN LINE COMPANY ASSIGNMENT TASK
 
-### Refer to the image below:
 
-Add UI reference image yourself
+COMPLETE THE ASSIGNMENT ONLY IN HTML AND CSS, DONT USE REACT
 
-<div style="text-align: center;">
-     <!-- <img src="remove this text and add the image URL" alt="ui"> -->
-</div>
-<br/>
 
-### Design Files
+Assignment: Lab Page - Responsive web design
+Design Figma Link(Sample prototype) :
+https://www.figma.com/file/bxcmwV5aceVVBFBLbMAhxX/Web-Dev-Lab-Assignment?type=desi
+gn&node-id=0%3A1&mode=design&t=39lgdFepUi73srjC-1
 
-<details>
-<summary>Add Route Name</summary>
-<br/>
-Add the design files according to the route (if any) and responsiveness
 
-<!-- - [Extra Small (Size < 576px) and Small (Size >= 576px)](remove this text and add the image URL here)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](remove this text and add the image URL here) -->
 
-</details>
+KINDLY REFER TO THIS VIDEO AND MAKE THE ASSIGNMENT COMPLETELY SIMILAR TO THE FIGMA DESIGN GIVEN IN THE ABOVE LINK
 
-### Set Up Instructions
+HELP VIDEO: https://www.youtube.com/watch?v=Ov6-cfZUihE
 
-<details>
-<summary>Click to view</summary>
+Fast forward to 1:30 (1 minute 30 seconds)
 
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
+THE COMPANY IS EXPECTING YOU TO MAKE COMPLETELY SIMILAR TO THE FIGMA LINK- SO DO IT ACCORDINGLY- WATCH VIDE FOR HELP
 
-</details>
+Objective:
+The objective of this assignment is to create a responsive web design for the Lab Page based on
+the provided Figma design. The web design should accurately implement the visual elements,
+layout, and interactions outlined in the Figma design. The final result should be a
+user-friendly and visually appealing web page showcasing top doctors in a specific
+medical field or location.
 
-### Assignment Completion Instructions
 
-<details>
-<summary>Functionality to be added</summary>
-<br/>
 
-The app must have the following functionalities:
+Design Requirements:
 
-- Add all the functionalities to be achieved(according to the route, if any) yourself
+● The page should showcase top doctors, including their profiles and ratings, with
+interactive elements, search functionality, and optimal mobile experience. Ensure design
+consistency, accessibility, and basic SEO practices.
+● Ensure the design is visually appealing as per the UI design.
+● Use a responsive design that adapts well to different screen sizes and devices.
+● Use suitable fonts, icons, and graphics that complement the design and are consistent
+throughout the app and website.
+● Ensure the webpage has consistent design elements, but adapts appropriately for each
+platform.
+Deliverables:
+● Github Link of Webpage: A GitHub link of a webpage is a URL leading to the repository
+where the webpage's source code is stored, enabling collaboration and version control.
+Submission Guidelines:
+● Submit the GitHub link to your website code.
+● Ensure the files are in a format that we can easily access and view.
 
-</details>
-
-### Assignment Completion Checklist
-
-<details>
-<summary>Click to view</summary>
-
-- **Along with the below points, add your checklist specific to the assignment**
-
-- Read the instructions given in the assignment carefully and list down the **Assignment Completion Checklist** for the assignment and start working on it
-- The completion Checklist includes the below-mentioned points
-  - I have completed all the functionalities asked in the assignment
-  - I have used only the resources (Frameworks, Design files, APIs, third-party packages) mentioned in the assignment
-  - I have modified the README.md file based on my assignment instructions
-  - I have completed the assignment **ON TIME**
-- **Note:**
-  - Ensure that you have marked all the checklist points in your completion checklist before submitting the assignment
-  </details>
-
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- Add third-party packages list yourself
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-<br/>
-
-- Add any important note here, like user credentials for authentication.
-
-</details>
-
-### Resources
-
-<details>
-<summary>Data Fetch URLs</summary>
-<br/>
-
-- Add the URLs list to fetch the data yourself
-
-</details>
-
-<details>
-<summary>Image URLs</summary>
-<br/>
-
-- Add the list of all image URLs needed in the assignment yourself.
-
-</details>
-
-<details>
-<summary>Colors</summary>
-<br/>
-
-Add the text and background colours to be used in the assignment yourself.
-
-<!-- <div style="background-color: #3b82f6; width: 150px; padding: 10px; color: white">Hex: #3b82f6</div> -->
-
-</details>
-
-<details>
-<summary>Font-families</summary>
-
-- Add the font-families to be used in the assignment yourself.
-
-</details>
